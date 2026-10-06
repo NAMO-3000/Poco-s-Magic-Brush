@@ -1,0 +1,6 @@
+{
+  "name": "Poco's Magic Brush",
+  "description": "초등 1학년을 위한 터치 반응형 영어 그림책. 꼬마 펭귄 포코와 함께 요술 붓으로 알록달록한 세상을 칠해보세요!",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
